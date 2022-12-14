@@ -1,0 +1,32 @@
+## FrontEnd / WebDev Admission Test
+
+- This is a general admission test for the position you are applying
+- The HTML/CSS/JS section requires you to create separate files. 
+- You are welcome to comment your code to illustrate your implementation
+- Once you are finished, send the html/css/js files to us, by email
+
+
+#### Q.1 HTML
+- create a html file with a header a body and a footer [OK]
+- use and "Roboto Condensed" from googlefonts (through a CDN) [OK]
+
+
+#### Q.2 CSS
+- in the header, add a "NAV bar" (bootstrap or CSS3 or other), with 3 rounded buttons. Call these "button 1", etc. [OK]
+- Align 2 of these aligned to the left, and the other to the right.  [0K]
+- pad the buttons, change the colors, fonts, etc. to you own liking [OK]
+- in the body, create a container, with a responsive grid, with the 9 provided animal stock photos ( jpg directory ) [Ok]
+
+
+#### Q.3 JavaScript
+- in JS, write a piece of code that will shuffle the grid, once the right-most button is pressed
+- once you are ready, zip the files (including instructions to run them, if appropriate) and send them to us
+
+
+#### Q.4 React
+- in a different project, using React, create a React App.
+- the app displays a counter starting at 0
+- set limits to the counter so that it cannot go below 0 or above 100
+- using two different buttons increase or decrease by one the counter
+- add another button to reset the counter to 0
+- add another button that updates the counter to a random number between 0 and 100
